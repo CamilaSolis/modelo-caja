@@ -2,16 +2,17 @@
 Escribir el CSS necesario aqui
 */
 div{
-	border-top:20px purple solid;
-	border-bottom:20px purple solid;
-	border-right: 10px purple solid;
-	border-left: 10px purple solid;
-	background-color: red;
+	margin:60px;
+	border-top:20px #9900ff solid;
+	border-bottom:20px #9900ff solid;
+	border-right: 10px #9900ff solid;
+	border-left: 10px #9900ff solid;
+	background-color: #f9cb9c;
 }
 p {
 	background-color: white;
 	text-align: center;
 	padding: 20px;
-	margin: 20px 10px 60px 70px;
+	margin: 40px 10px 80px 100px;
 	border: 2px green dashed;
 }
