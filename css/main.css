@@ -1,0 +1,17 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+div{
+	border-top:20px purple solid;
+	border-bottom:20px purple solid;
+	border-right: 10px purple solid;
+	border-left: 10px purple solid;
+	background-color: red;
+}
+p {
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+	margin: 20px 10px 60px 70px;
+	border: 2px green dashed;
+}
